@@ -75,4 +75,9 @@ $ npm run startDev
 ### Documentation
 
 - [`Postman-documentation`](https://documenter.getpostman.com/view/20709109/UzXKVdvg)
-- [`Admin-credentials`] Username: araskonde password:tes12345
+- Admin-Credentials
+
+```sh
+Username: araskonde 
+password: tes12345
+```
