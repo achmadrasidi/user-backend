@@ -1,9 +1,6 @@
 <p align="center">
 
   <h1 align="center">User Backend</h1>
-  <p align="center">
-    <image align="center" width="100" src='./static/assets/img/coffee 1.png' />
-  </p>
 
   <p align="center">
     <br />
